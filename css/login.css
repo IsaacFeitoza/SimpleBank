@@ -8,5 +8,75 @@ body{
 }
 
 h1{
-    font-size: 60px;
+    font-size: 50px;
 }
+
+section p {
+    font-weight: 900px;
+    color: #3734A9;
+    font-size: 25px;
+}
+
+.conteudo {
+    height: 300px;
+    width: 500px;
+    justify-content: right;
+    margin-left: 350px;
+    margin-top: 300px;
+}
+
+.flex{
+    display: flex;
+}
+
+.titulo{
+    width: 50%;
+    height: 937px;
+    color: white;
+    background-color: #3734A9;
+    font-size: 20px;
+}
+
+.formulario{
+    margin: 130px 230px 230px 100px ;
+}
+.interno{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+}
+input, button{
+    display: block;
+}
+
+figure, p, input, button {
+    margin-bottom: 35px;
+}
+
+label {
+    font-size: 18px;
+    color: #3834a9b9;
+
+}
+
+input {
+    height: 50px;
+    width: 355px;
+    background-color: #3834a917;
+    border: 1px solid #3834a917;
+    margin-top: 8px;
+}
+
+button {
+    border-radius: 40px;
+    font-size: 15px;
+    height: 50px;
+    width: 170px;
+    border: none;
+    font-weight: 800;
+    position: absolute;
+    right: 500px;
+    background-color: aqua;
+    color: #3734A9;
+}
+
