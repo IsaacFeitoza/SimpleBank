@@ -1,3 +1,3 @@
 # SimpleBank
 
-Banco Digital
+Simple Bank
